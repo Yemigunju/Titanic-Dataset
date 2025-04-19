@@ -23,9 +23,9 @@ By leveraging data visualization and statistical analysis, we uncover how factor
 - **Fare**: Higher ticket fares loosely correlated with higher survival rates, hinting at privilege in evacuation access.
 
 ### 📷 Survival Distribution Histogram
-This histogram illustrates the overall distribution of passengers who survived versus those who didn't:
+This histogram illustrates the overall distribution of passengers age:
 
-![Survival Histogram showing survival distribution](histogram.JPG)
+![Survival Histogram showing overall age distribution](histogram.JPG)
 
 ## ✅ Conclusion
 The Titanic dataset highlights how socio-economic status and gender influenced chances of survival.  
