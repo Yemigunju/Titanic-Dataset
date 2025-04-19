@@ -22,7 +22,7 @@ By leveraging data visualization and statistical analysis, we uncover how factor
 - **Age Range**: Children and younger passengers had slightly better survival rates than older adults.
 - **Fare**: Higher ticket fares loosely correlated with higher survival rates, hinting at privilege in evacuation access.
 
-### 📷 Survival Distribution Histogram
+### 📷 Age Distribution
 This histogram illustrates the overall distribution of passengers age:
 
 ![Survival Histogram showing overall age distribution](histogram.JPG)
